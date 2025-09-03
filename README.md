@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" width="720" alt="Battery Health Automation for Windows">
+</p>
+
 # 🔋 Battery Alert for Windows
 
 A lightweight PowerShell script that helps you maintain battery health by notifying you when your laptop battery reaches **80% while charging**. Built using the [BurntToast](https://github.com/Windos/BurntToast) module for modern Windows toast notifications.
