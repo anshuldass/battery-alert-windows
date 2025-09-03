@@ -2,6 +2,10 @@
   <img src="assets/banner.png" width="720" alt="Battery Health Automation for Windows">
 </p>
 
+
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue)
+
 # 🔋 Battery Alert for Windows
 
 A lightweight PowerShell script that helps you maintain battery health by notifying you when your laptop battery reaches **80% while charging**. Built using the [BurntToast](https://github.com/Windos/BurntToast) module for modern Windows toast notifications.
@@ -96,5 +100,3 @@ BurntToast
 
 Windows Task Scheduler for automation
 
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue)
