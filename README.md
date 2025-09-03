@@ -1,7 +1,9 @@
 # 🔋 Battery Alert for Windows
+<p align="center">
+  <img src="assets/banner.png" width="720" alt="Battery Health Automation for Windows">
+</p>
 
-[](https://github.com/anshuldass/battery-alert-windows/tree/main#-battery-alert-for-windows)
-
+----------
 A lightweight PowerShell script that helps you maintain battery health by notifying you when your laptop battery reaches  **80% while charging**. Built using the  [BurntToast](https://github.com/Windos/BurntToast)  module for modern Windows toast notifications.
 
 ----------
@@ -79,6 +81,10 @@ while ($true) {
 ## 🖼️ Preview
 
 When charging past 80%, you’ll see a toast notification like this:
+
+<p align="center">
+  <img src="assets/Preview.png" width="720" alt="Battery Health Automation for Windows : Preview">
+</p>
 
 Battery Alert Battery is at 80%. Please disconnect the charger!
 
