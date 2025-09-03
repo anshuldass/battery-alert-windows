@@ -95,3 +95,6 @@ BurntToast
  for PowerShell toast notifications
 
 Windows Task Scheduler for automation
+
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue)
